@@ -1,2 +1,7 @@
 # RaptorTool
-Here is the implementation of basic Algorithms using Raptor Tool as part of our Software Engineering Lab (CSB 253) 
+
+RAPTOR, the Rapid Algorithmic Prototyping Tool for Ordered Reasoning, is a graphical authoring tool.
+
+The software allows us to write and execute programs using flowcharts.
+
+
